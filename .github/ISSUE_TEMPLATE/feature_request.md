@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-** Use Case **
+**Use Case**
 Explain the use case of this feature.
 
 **Expected Behavior**
